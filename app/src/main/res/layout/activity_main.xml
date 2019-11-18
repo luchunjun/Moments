@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.activity.MainActivity">
+    <com.scu.miomin.shswiperefresh.core.SHSwipeRefreshLayout
+        android:id="@+id/swipeRefreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.lcj.commonlib.view.components.SupportRefreshRecyclerView
+            android:id="@+id/tweetsList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </com.scu.miomin.shswiperefresh.core.SHSwipeRefreshLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

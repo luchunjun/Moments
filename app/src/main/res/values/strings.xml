@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Moments</string>
+    <string name="title_activity_main">Moments</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="splash_slogan">Share\n\nYour\n\nJoy\n,\n\nEnjoy\n\n Other\'s\n\n Joy</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="title_activity_view_pictures">ViewPictures</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="release_to_load">Release to load</string>
+    <string name="release_to_refresh">Release to refresh</string>
+    <string name="refreshing">Refreshing</string>
+    <string name="pull_up_to_refresh">Pull up to refresh</string>
+    <string name="pull_down_to_refresh">Pull down to refresh</string>
+
+    <string name="title_activity_view_images">ViewImagesActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
